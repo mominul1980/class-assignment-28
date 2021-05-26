@@ -1,0 +1,14 @@
+.container .col-xl-2 {
+  text-transform: capitalize;
+}
+
+.container .col-xl-10 .nav ul li {
+  display: inline-block;
+}
+
+.container .col-xl-10 .nav ul li a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+}
+/*# sourceMappingURL=style.css.map */
